@@ -1,0 +1,1 @@
+/Users/George/Desktop/Dev\ Projects/TerminalGames/26.BraveTraveller/HelloWorldApps/rust/hello_world/target/debug/hello_world: /Users/George/Desktop/Dev\ Projects/TerminalGames/26.BraveTraveller/HelloWorldApps/rust/hello_world/src/main.rs
