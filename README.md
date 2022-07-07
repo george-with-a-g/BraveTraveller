@@ -1,6 +1,6 @@
 #LANGUAGES TO CONQUER
 
-python, javascript, bash, rust, ruby, go, c, c++, java, kotlin, dart, php
+python <br/> javascript <br/> bash <br/> rust <br/> ruby <br/> go <br/> c <br/> c++ <br/> java <br/> kotlin <br/> dart <br/> php
 
 #OTHER BUILDS
 WebPage in different frameworks  <br/>
