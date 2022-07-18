@@ -11,3 +11,4 @@ Mobile Apps in different frameworks <br/>
 Blog application in different frameworks <br/>
 A Terminal Calculator </br>
 A web browser Calculator </br>
+Web scrapper in a couple of languages </br>
